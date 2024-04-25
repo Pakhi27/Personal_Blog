@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding:0;
+}
+.Container{
+    background-color:#E1F7F5;
+}
+.Container .leftsection{
+    color:#0E46A3;
+}
+.container-fluid .navbar-brand{
+    margin-left:30px;
+}
+.container-fluid .navbar-brand:hover{
+    color:rgb(113, 113, 244);
+}
+.nav-item .nav-link.article{
+    margin-left:500px;
+}
+.navbar-nav .nav-link:hover {
+    color: rgb(113, 113, 244); 
+}
+.navbar-nav .nav-link.article:hover {
+    color: rgb(113, 113, 244); 
+}
+.purple{
+    color:rgb(113, 113, 244);
+}
+.firstsection {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 100px 0;
+    color: white;
+    height: 100vh;
+}
+
+.firstsection>div {
+    width: 30%;
+}
+
+.leftsection {
+    font-size: 2.5rem;
+    font-family: "Playfair Display SC";
+}
+
+.leftsection span {
+    font-family: "Calligraffitti", cursive;
+}
+
+
+.rightsection img {
+    width: 80%;
+    margin: 50px 0;
+}
+.navbar{
+    background-color:#1E0342;
+}
+.nav-item .nav-link{
+    color:#E1F7F5;
+}
+.navbar-nav .nav-link.article {
+    color: #E1F7F5;
+}
+
+.container-fluid .navbar-brand{
+    color:#E1F7F5;
+}
+
+.articles h1{
+    color:#0E46A3;
+    text-align:center;
+    font-style:bold;
+}
+
+.articles h2{
+    color:#1E0342;
+    text-align:center;
+}
+
+.images{
+    margin-left:400px;
+    width:400px;
+    height:300px;
+}
